@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🎓 I'm currently pursuing **B.E. in Computer Science** from KVG College of Engineering (2021–2025)  
+- 🎓 **B.E. in Computer Science** from KVG College of Engineering (2021–2025)  
 - 💻 I enjoy working on **web development** projects and experimenting with **UI/UX design**
 - 🤖 Exploring the fields of **Computer Vision**, **Cloud Computing**, and **Smart Systems**
 - 🌱 I’m always learning and curious to dive into new technologies
